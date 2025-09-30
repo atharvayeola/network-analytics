@@ -62,10 +62,4 @@ network-analytics/
     └── test_pipeline.py        # Unit tests
 ```
 
-## Talking points for your resume or portfolio
 
-- Processed 10K+ network telemetry records and generated device- and region-level latency statistics.
-- Used statistical techniques (z-scores and thresholding) to detect high latency, packet loss, and CPU utilization bottlenecks.
-- Designed an interactive monitoring dashboard combining trends, heatmaps, and KPI summaries to communicate reliability insights to stakeholders.
-
-These bullet points map directly to the capabilities provided in this repository, giving you concrete evidence for interviews or case studies.
