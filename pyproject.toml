@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "network-analytics"
+version = "0.1.0"
+description = "Network telemetry analytics pipeline and dashboard"
+authors = [{name = "Your Name"}]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "plotly>=5.0",
+]
+
+[project.scripts]
+network-analytics = "network_analytics.__main__:main"
