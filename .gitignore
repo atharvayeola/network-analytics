@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+reports/
+data/network_telemetry.csv
+src/network_analytics.egg-info/
+.idea/
+.DS_Store
